@@ -2,12 +2,17 @@
 
 ![image](https://github.com/fskcontacto/fskcttm/assets/133590555/786a661a-6f54-4bae-934a-f4b71c7b57b9)
 
+## Contexto
+
+Esta aplicación fue desarrollada en el contexto de un TP dentro de la asignatura **Paradigmas de Programación** correspondiente al 3er año de la carrera de **Ingeniería en Informática** en la **Universidad Nacional de La Matanza**.
+
+
 ## ¿Cómo ejecutar el programa?
 
 Para ejecutar lo desarollado, debe realizar los siguientes pasos:
 
-1- Dirigirse a __src/turismo/sistema__ <br />
-2- Ejecutar el archivo __App.java__
+- Dirigirse a __src/turismo/sistema__
+- Ejecutar el archivo __App.java__
 
 ## Formato de archivos de entrada
 
